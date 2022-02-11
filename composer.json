@@ -1,5 +1,5 @@
 {
-    "name": "naughtonium/laravel-dark-sky",
+    "name": "rich2k/laravel-dark-sky",
     "type": "library",
     "description": "Provides a Wrapper for the DarkSky API",
     "keywords": [
